@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josegonz115
 - 👀 I’m interested in becoming better at programming.
-- 🌱 I’m currently learning C++ and python.
+- 🌱 I’m currently learning C++, python, and java.
 - 💞️ I’m looking to collaborate on any beginner projects. 
 - 📫 How to reach me , my email: josegonz115@gmail.com
 
